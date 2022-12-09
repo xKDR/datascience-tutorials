@@ -1,0 +1,3 @@
+# Data science tutorials in Julia
+
+1. Geospation data in Julia with Rasters.jl [![View notebook in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/xKDR/datascience-tutorials/blob/main/rasters.ipynb) [![View on YouTube](https://img.shields.io/badge/Video-YouTube-critical)](https://deepnote.com/viewer/github/xKDR/datascience-tutorials/blob/main/rasters.ipynb)
